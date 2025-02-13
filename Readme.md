@@ -21,18 +21,18 @@ To install and set up the project, follow these steps:
    ```bash
     npm install
 
-3 . Start the development server:
+3. Start the development server:
     ```bash
      npm run dev
 
-Scripts
+## Scripts
 dev: Starts the development server.
 build: Builds the project for production.
 start: Runs the production build.
 check: Runs TypeScript checks.
 db:push: Pushes the database schema using Drizzle Kit.
 
-Dependencies
+## Dependencies
 Lisebo uses various dependencies, including but not limited to:
 
 express
@@ -42,10 +42,10 @@ tailwindcss
 vite
 For a full list of dependencies, see the package.json file.
 
-Contributing
+## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 4. Click "Commit new file" to save the README to your repository.
