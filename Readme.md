@@ -22,8 +22,8 @@ To install and set up the project, follow these steps:
     npm install
 
 3 . Start the development server:
-     ```bash
-      npm run dev
+    ```bash
+     npm run dev
 
 Scripts
 dev: Starts the development server.
