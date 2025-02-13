@@ -1,6 +1,6 @@
 # Lisebo
 
-Lisebo is a whistleblower platform designed to ensure the security and anonymity of informants. The platform provides secure issue tracking via encrypted tokens, WhatsApp integration, and dashboards for admins and HR.
+Lisebo is a cutting-edge whistleblower platform focused on safeguarding the security and anonymity of informants. This platform ensures the protection of sensitive information through robust security measures and provides a seamless user experience for both informants and administrators.
 
 ## Features
 
